@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server"
+        }
+    ],
+    "users": [
+        {
+            "name": "Chris"
+        },
+        {
+            "name": "Al"
+        }
+    ]
+}
